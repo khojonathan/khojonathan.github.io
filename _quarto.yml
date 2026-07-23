@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  echo: false
+
 website:
   title: "Jonathan Kho"
   navbar:
