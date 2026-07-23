@@ -90,6 +90,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -143,7 +172,8 @@ div.csl-indent {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#first-author-papers" id="toc-first-author-papers" class="nav-link active" data-scroll-target="#first-author-papers">First-author Papers</a></li>
+  <li><a href="#co-authored-papers" id="toc-co-authored-papers" class="nav-link" data-scroll-target="#co-authored-papers">Co-authored Papers</a></li>
   </ul>
 </nav>
     </div>
@@ -169,10 +199,39 @@ div.csl-indent {
 </header>
 
 
-<section id="publications" class="level1">
-<h1>Publications</h1>
-<div id="refs" role="list">
-
+<section id="first-author-papers" class="level1">
+<h1>First-author Papers</h1>
+<p><span class="citation" data-cites="Kho_2026">Kho et al. (<a href="#ref-Kho_2026" role="doc-biblioref">2026</a>)</span></p>
+<p><span class="citation" data-cites="Kho_2025">Kho et al. (<a href="#ref-Kho_2025" role="doc-biblioref">2025</a>)</span></p>
+</section>
+<section id="co-authored-papers" class="level1">
+<h1>Co-authored Papers</h1>
+<p><span class="citation" data-cites="Garcia_2026">Garcia et al. (<a href="#ref-Garcia_2026" role="doc-biblioref">2026</a>)</span></p>
+<p><span class="citation" data-cites="Bhowmick_2026">Bhowmick et al. (<a href="#ref-Bhowmick_2026" role="doc-biblioref">2026</a>)</span></p>
+<p><span class="citation" data-cites="Ahvazi_2025">Ahvazi et al. (<a href="#ref-Ahvazi_2025" role="doc-biblioref">2025</a>)</span></p>
+<p><span class="citation" data-cites="Bhowmick_2025">Bhowmick et al. (<a href="#ref-Bhowmick_2025" role="doc-biblioref">2025</a>)</span></p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-Ahvazi_2025" class="csl-entry" role="listitem">
+Ahvazi, Niusha, Andrew B. Pace, Christopher T. Garling, et al. 2025. <span>“<span class="nocase">The abundance and properties of the lowest luminosity dwarf galaxies around the Milky Way: Insights from Semi-Analytic Models</span>.”</span> <em>arXiv e-Prints</em>, November, arXiv:2511.15808. <a href="https://doi.org/10.48550/arXiv.2511.15808">https://doi.org/10.48550/arXiv.2511.15808</a>.
+</div>
+<div id="ref-Bhowmick_2025" class="csl-entry" role="listitem">
+Bhowmick, Aklant K., Laura Blecha, Paul Torrey, et al. 2025. <span>“<span class="nocase">Signatures of black hole seeding in the local Universe: predictions from the BRAHMA cosmological simulations</span>.”</span> 538 (1): 518–36. <a href="https://doi.org/10.1093/mnras/staf269">https://doi.org/10.1093/mnras/staf269</a>.
+</div>
+<div id="ref-Bhowmick_2026" class="csl-entry" role="listitem">
+Bhowmick, Aklant K., Laura Blecha, Paul Torrey, et al. 2026. <span>“<span class="nocase">Heavy Seeds and the First Black Holes: Insights from the BRAHMA Simulations</span>.”</span> 997 (2): 187. <a href="https://doi.org/10.3847/1538-4357/ae2607">https://doi.org/10.3847/1538-4357/ae2607</a>.
+</div>
+<div id="ref-Garcia_2026" class="csl-entry" role="listitem">
+Garcia, Alex M., Jonah C. Rose, Paul Torrey, et al. 2026. <span>“<span class="nocase">The DREAMS Project: Disentangling the Impact of Halo-to-halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles</span>.”</span> 1002 (1): 8. <a href="https://doi.org/10.3847/1538-4357/ae5938">https://doi.org/10.3847/1538-4357/ae5938</a>.
+</div>
+<div id="ref-Kho_2025" class="csl-entry" role="listitem">
+Kho, Jonathan, Aklant Kumar Bhowmick, Paul Torrey, et al. 2025. <span>“<span class="nocase">Signatures of Black Hole Seeding on the M<span class="math inline">\(_{\bullet}\)</span>─<span><span class="math inline">\(\sigma\)</span></span> Relation: Predictions from the BRAHMA Simulations</span>.”</span> 994 (2): 172. <a href="https://doi.org/10.3847/1538-4357/ae0e1e">https://doi.org/10.3847/1538-4357/ae0e1e</a>.
+</div>
+<div id="ref-Kho_2026" class="csl-entry" role="listitem">
+Kho, Jonathan, Aklant K. Bhowmick, Rainer Weinberger, et al. 2026. <span>“<span class="nocase">Learning the Universe at High Redshifts: Impact of Accretion Modeling on Early Black Hole Growth</span>.”</span> <em>arXiv e-Prints</em>, June, arXiv:2606.10036. <a href="https://doi.org/10.48550/arXiv.2606.10036">https://doi.org/10.48550/arXiv.2606.10036</a>.
+</div>
+<div id="ref-Kho_2024" class="csl-entry" role="listitem">
+Kho, Jonathan, and Shazrene Mohamed. 2024. <span>“<span class="nocase">3D Moving-Mesh Simulations of Type IIn Supernovae</span>.”</span> <em>American Astronomical Society Meeting Abstracts #243</em>, American astronomical society meeting abstracts, vol. 243 (February): 260.14.
+</div>
 </div>
 
 
