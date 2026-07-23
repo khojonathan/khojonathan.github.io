@@ -7,19 +7,17 @@ nocite: |
 
 # First-author Papers
 
-@Kho_2026
-
-@Kho_2025
+::: {#refs-first}
+bibliography: assets/first_author.bib
+nocite: |
+  @*
+:::
 
 # Co-authored Papers
 
-@Garcia_2026
-
-@Bhowmick_2026
-
-@Ahvazi_2025
-
-@Bhowmick_2025
-
-::: {#refs}
+::: {#refs-coauthor}
+bibliography: assets/co_author.bib
+nocite: |
+  @*
 :::
+
