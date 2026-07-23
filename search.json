@@ -4,7 +4,56 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "First-author Papers\n\nbibliography: assets/first_author.bib nocite: | \n\n\n\nCo-authored Papers\n\nbibliography: assets/co_author.bib nocite: | \n\n\n\n\n\n\nReferences\n\nAhvazi, Niusha, Andrew B. Pace, Christopher T. Garling, et al. 2025. “The abundance and properties of the lowest luminosity dwarf galaxies around the Milky Way: Insights from Semi-Analytic Models.” arXiv e-Prints, November, arXiv:2511.15808. https://doi.org/10.48550/arXiv.2511.15808.\n\n\nBhowmick, Aklant K., Laura Blecha, Paul Torrey, et al. 2025. “Signatures of black hole seeding in the local Universe: predictions from the BRAHMA cosmological simulations.” 538 (1): 518–36. https://doi.org/10.1093/mnras/staf269.\n\n\nBhowmick, Aklant K., Laura Blecha, Paul Torrey, et al. 2026. “Heavy Seeds and the First Black Holes: Insights from the BRAHMA Simulations.” 997 (2): 187. https://doi.org/10.3847/1538-4357/ae2607.\n\n\nGarcia, Alex M., Jonah C. Rose, Paul Torrey, et al. 2026. “The DREAMS Project: Disentangling the Impact of Halo-to-halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles.” 1002 (1): 8. https://doi.org/10.3847/1538-4357/ae5938.\n\n\nKho, Jonathan, Aklant Kumar Bhowmick, Paul Torrey, et al. 2025. “Signatures of Black Hole Seeding on the M\\(_{\\bullet}\\)─\\(\\sigma\\) Relation: Predictions from the BRAHMA Simulations.” 994 (2): 172. https://doi.org/10.3847/1538-4357/ae0e1e.\n\n\nKho, Jonathan, Aklant K. Bhowmick, Rainer Weinberger, et al. 2026. “Learning the Universe at High Redshifts: Impact of Accretion Modeling on Early Black Hole Growth.” arXiv e-Prints, June, arXiv:2606.10036. https://doi.org/10.48550/arXiv.2606.10036.\n\n\nKho, Jonathan, and Shazrene Mohamed. 2024. “3D Moving-Mesh Simulations of Type IIn Supernovae.” American Astronomical Society Meeting Abstracts #243, American astronomical society meeting abstracts, vol. 243 (February): 260.14."
+    "text": "{Kho}, Jonathan, {Bhowmick}, Aklant K., {Weinberger}, Rainer, {Torrey}, Paul, {Blecha}, Laura, {Hernquist}, Lars, {Bryan}, Greg L., {Garcia}, Alex M., {Ahvazi}, Niusha, {Saravia}, Alejandro, {Oh}, Boon Kiat\narXiv e-prints, 2026\nDOI | ADS | arXiv\n\n\n\n\n{Kho}, Jonathan, {Bhowmick}, Aklant Kumar, {Torrey}, Paul, {Garcia}, Alex M., {Ahvazi}, Niusha, {Blecha}, Laura, {Vogelsberger}, Mark\n*, 2025\nDOI | ADS | arXiv\n\n\n\n\n{Kho}, Jonathan, {Mohamed}, Shazrene\nAmerican Astronomical Society Meeting Abstracts #243, 2024\nADS"
+  },
+  {
+    "objectID": "publications.html#learning-the-universe-at-high-redshifts-impact-of-accretion-modeling-on-early-black-hole-growth",
+    "href": "publications.html#learning-the-universe-at-high-redshifts-impact-of-accretion-modeling-on-early-black-hole-growth",
+    "title": "Publications",
+    "section": "",
+    "text": "{Kho}, Jonathan, {Bhowmick}, Aklant K., {Weinberger}, Rainer, {Torrey}, Paul, {Blecha}, Laura, {Hernquist}, Lars, {Bryan}, Greg L., {Garcia}, Alex M., {Ahvazi}, Niusha, {Saravia}, Alejandro, {Oh}, Boon Kiat\narXiv e-prints, 2026\nDOI | ADS | arXiv"
+  },
+  {
+    "objectID": "publications.html#signatures-of-black-hole-seeding-on-the-m_bullet-relation-predictions-from-the-brahma-simulations",
+    "href": "publications.html#signatures-of-black-hole-seeding-on-the-m_bullet-relation-predictions-from-the-brahma-simulations",
+    "title": "Publications",
+    "section": "",
+    "text": "{Kho}, Jonathan, {Bhowmick}, Aklant Kumar, {Torrey}, Paul, {Garcia}, Alex M., {Ahvazi}, Niusha, {Blecha}, Laura, {Vogelsberger}, Mark\n*, 2025\nDOI | ADS | arXiv"
+  },
+  {
+    "objectID": "publications.html#d-moving-mesh-simulations-of-type-iin-supernovae",
+    "href": "publications.html#d-moving-mesh-simulations-of-type-iin-supernovae",
+    "title": "Publications",
+    "section": "",
+    "text": "{Kho}, Jonathan, {Mohamed}, Shazrene\nAmerican Astronomical Society Meeting Abstracts #243, 2024\nADS"
+  },
+  {
+    "objectID": "publications.html#the-dreams-project-disentangling-the-impact-of-halo-to-halo-variance-and-baryonic-feedback-on-milky-way-dark-matter-density-profiles",
+    "href": "publications.html#the-dreams-project-disentangling-the-impact-of-halo-to-halo-variance-and-baryonic-feedback-on-milky-way-dark-matter-density-profiles",
+    "title": "Publications",
+    "section": "The DREAMS Project: Disentangling the Impact of Halo-to-halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles",
+    "text": "The DREAMS Project: Disentangling the Impact of Halo-to-halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles\n{Garcia}, Alex M., {Rose}, Jonah C., {Torrey}, Paul, {Caputo}, Andrea, {Lisanti}, Mariangela, {Pace}, Andrew B., {Liu}, Hongwan, {Hussein}, Abdelaziz, {Liu}, Haozhe, {Villaescusa-Navarro}, Francisco, {Barry}, John, {Leisher}, Ilem, {Costanza}, Bel{'e}n, {Kho}, Jonathan, {Lilie}, Ethan, {Li}, Jiaxuan, {Ahvazi}, Niusha, {Bhowmick}, Aklant, {Nguyen}, Tri, {O’Neil}, Stephanie, {Ou}, Xiaowei, {Shen}, Xuejian, {Farahi}, Arya, {Kallivayalil}, Nitya, {Necib}, Lina, {Vogelsberger}, Mark\n*, 2026\nDOI | ADS | arXiv"
+  },
+  {
+    "objectID": "publications.html#heavy-seeds-and-the-first-black-holes-insights-from-the-brahma-simulations",
+    "href": "publications.html#heavy-seeds-and-the-first-black-holes-insights-from-the-brahma-simulations",
+    "title": "Publications",
+    "section": "Heavy Seeds and the First Black Holes: Insights from the BRAHMA Simulations",
+    "text": "Heavy Seeds and the First Black Holes: Insights from the BRAHMA Simulations\n{Bhowmick}, Aklant K., {Blecha}, Laura, {Torrey}, Paul, {Kelley}, Luke Zoltan, {Natarajan}, Priyamvada, {Somerville}, Rachel S., {Weinberger}, Rainer, {Garcia}, Alex M., {Hernquist}, Lars, {Di Matteo}, Tiziana, {Kho}, Jonathan, {Vogelsberger}, Mark\n*, 2026\nDOI | ADS | arXiv"
+  },
+  {
+    "objectID": "publications.html#the-abundance-and-properties-of-the-lowest-luminosity-dwarf-galaxies-around-the-milky-way-insights-from-semi-analytic-models",
+    "href": "publications.html#the-abundance-and-properties-of-the-lowest-luminosity-dwarf-galaxies-around-the-milky-way-insights-from-semi-analytic-models",
+    "title": "Publications",
+    "section": "The abundance and properties of the lowest luminosity dwarf galaxies around the Milky Way: Insights from Semi-Analytic Models",
+    "text": "The abundance and properties of the lowest luminosity dwarf galaxies around the Milky Way: Insights from Semi-Analytic Models\n{Ahvazi}, Niusha, {Pace}, Andrew B., {Garling}, Christopher T., {Ou}, Xiaowei, {Kallivayalil}, Nitya, {Torrey}, Paul, {Benson}, Andrew, {Bhowmick}, Aklant, {Torres-Alb{`a}}, N{'u}ria, {Garcia}, Alex M., {Saravia}, Alejandro, {Kho}, Jonathan, {Warfield}, Jack T., {Atzberger}, Kaia R.\narXiv e-prints, 2025\nDOI | ADS | arXiv"
+  },
+  {
+    "objectID": "publications.html#signatures-of-black-hole-seeding-in-the-local-universe-predictions-from-the-brahma-cosmological-simulations",
+    "href": "publications.html#signatures-of-black-hole-seeding-in-the-local-universe-predictions-from-the-brahma-cosmological-simulations",
+    "title": "Publications",
+    "section": "Signatures of black hole seeding in the local Universe: predictions from the BRAHMA cosmological simulations",
+    "text": "Signatures of black hole seeding in the local Universe: predictions from the BRAHMA cosmological simulations\n{Bhowmick}, Aklant K., {Blecha}, Laura, {Torrey}, Paul, {Somerville}, Rachel S., {Kelley}, Luke Zoltan, {Weinberger}, Rainer, {Vogelsberger}, Mark, {Hernquist}, Lars, {Natarajan}, Priyamvada, {Kho}, Jonathan, {Di Matteo}, Tiziana\n*, 2025\nDOI | ADS | arXiv"
   },
   {
     "objectID": "about.html",
