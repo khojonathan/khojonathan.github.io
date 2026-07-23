@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Jonathan Kho",
+    "section": "",
+    "text": "Curriculum Vitae"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,11 +14,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Jonathan Kho",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Curriculum Vitae"
+    "text": "Publications"
   },
   {
     "objectID": "index.html",
