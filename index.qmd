@@ -2,14 +2,9 @@
 title: "Jonathan Kho"
 ---
 
-# Welcome
+# Hi!
 
-Hi! I'm a PhD student at the University of Virginia studying supermassive black holes and galaxies in cosmological simulations
+I'm a PhD student at the University of Virginia studying supermassive black holes and galaxies in cosmological simulations
 
 ## Research
-
-
-## CV
-
-[Curriculum Vitae](assets/Kho_CV.pdf)
 
