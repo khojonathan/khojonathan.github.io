@@ -1,0 +1,9 @@
+---
+title: "Publications"
+bibliography: assets/papers.bib
+---
+
+# Publications
+
+::: {#refs}
+:::
