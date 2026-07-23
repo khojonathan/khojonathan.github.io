@@ -6,7 +6,7 @@ title: "Publications"
 
 ## Learning the Universe at High Redshifts: Impact of Accretion Modeling on Early Black Hole Growth
 
-{Kho}, Jonathan, {Bhowmick}, Aklant K., {Weinberger}, Rainer, {Torrey}, Paul, {Blecha}, Laura, {Hernquist}, Lars, {Bryan}, Greg L., {Garcia}, Alex M., {Ahvazi}, Niusha, {Saravia}, Alejandro, {Oh}, Boon Kiat
+**Jonathan Kho**, Aklant K. Bhowmick, Rainer Weinberger, Paul Torrey, Laura Blecha, Lars Hernquist, Greg L. Bryan, Alex M. Garcia, Niusha Ahvazi, Alejandro Saravia, Boon Kiat Oh
 
 *arXiv e-prints*, 2026
 
@@ -14,9 +14,9 @@ title: "Publications"
 
 ---
 
-## Signatures of Black Hole Seeding on the M$_{\bullet}$─{\ensuremath{\sigma}} Relation: Predictions from the BRAHMA Simulations
+## Signatures of Black Hole Seeding on the M$_{\bullet}$─$\sigma$ Relation: Predictions from the BRAHMA Simulations
 
-{Kho}, Jonathan, {Bhowmick}, Aklant Kumar, {Torrey}, Paul, {Garcia}, Alex M., {Ahvazi}, Niusha, {Blecha}, Laura, {Vogelsberger}, Mark
+**Jonathan Kho**, Aklant Kumar Bhowmick, Paul Torrey, Alex M. Garcia, Niusha Ahvazi, Laura Blecha, Mark Vogelsberger
 
 *\apj*, 2025
 
@@ -24,21 +24,11 @@ title: "Publications"
 
 ---
 
-## 3D Moving-Mesh Simulations of Type IIn Supernovae
-
-{Kho}, Jonathan, {Mohamed}, Shazrene
-
-*American Astronomical Society Meeting Abstracts \#243*, 2024
-
-[ADS](https://ui.adsabs.harvard.edu/abs/2024AAS...24326014K)
-
----
-
 # Co-authored Publications
 
 ## The DREAMS Project: Disentangling the Impact of Halo-to-halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles
 
-{Garcia}, Alex M., {Rose}, Jonah C., {Torrey}, Paul, {Caputo}, Andrea, {Lisanti}, Mariangela, {Pace}, Andrew B., {Liu}, Hongwan, {Hussein}, Abdelaziz, {Liu}, Haozhe, {Villaescusa-Navarro}, Francisco, {Barry}, John, {Leisher}, Ilem, {Costanza}, Bel{\'e}n, {Kho}, Jonathan, {Lilie}, Ethan, {Li}, Jiaxuan, {Ahvazi}, Niusha, {Bhowmick}, Aklant, {Nguyen}, Tri, {O'Neil}, Stephanie, {Ou}, Xiaowei, {Shen}, Xuejian, {Farahi}, Arya, {Kallivayalil}, Nitya, {Necib}, Lina, {Vogelsberger}, Mark
+Alex M. Garcia, Jonah C. Rose, Paul Torrey, Andrea Caputo, Mariangela Lisanti, Andrew B. Pace, Hongwan Liu, Abdelaziz Hussein, Haozhe Liu, Francisco Villaescusa-Navarro, John Barry, Ilem Leisher, Bel\'en Costanza, **Jonathan Kho**, Ethan Lilie, Jiaxuan Li, Niusha Ahvazi, Aklant Bhowmick, Tri Nguyen, Stephanie O'Neil, Xiaowei Ou, Xuejian Shen, Arya Farahi, Nitya Kallivayalil, Lina Necib, Mark Vogelsberger
 
 *\apj*, 2026
 
@@ -48,7 +38,7 @@ title: "Publications"
 
 ## Heavy Seeds and the First Black Holes: Insights from the BRAHMA Simulations
 
-{Bhowmick}, Aklant K., {Blecha}, Laura, {Torrey}, Paul, {Kelley}, Luke Zoltan, {Natarajan}, Priyamvada, {Somerville}, Rachel S., {Weinberger}, Rainer, {Garcia}, Alex M., {Hernquist}, Lars, {Di Matteo}, Tiziana, {Kho}, Jonathan, {Vogelsberger}, Mark
+Aklant K. Bhowmick, Laura Blecha, Paul Torrey, Luke Zoltan Kelley, Priyamvada Natarajan, Rachel S. Somerville, Rainer Weinberger, Alex M. Garcia, Lars Hernquist, Tiziana Di Matteo, **Jonathan Kho**, Mark Vogelsberger
 
 *\apj*, 2026
 
@@ -58,7 +48,7 @@ title: "Publications"
 
 ## The abundance and properties of the lowest luminosity dwarf galaxies around the Milky Way: Insights from Semi-Analytic Models
 
-{Ahvazi}, Niusha, {Pace}, Andrew B., {Garling}, Christopher T., {Ou}, Xiaowei, {Kallivayalil}, Nitya, {Torrey}, Paul, {Benson}, Andrew, {Bhowmick}, Aklant, {Torres-Alb{\`a}}, N{\'u}ria, {Garcia}, Alex M., {Saravia}, Alejandro, {Kho}, Jonathan, {Warfield}, Jack T., {Atzberger}, Kaia R.
+Niusha Ahvazi, Andrew B. Pace, Christopher T. Garling, Xiaowei Ou, Nitya Kallivayalil, Paul Torrey, Andrew Benson, Aklant Bhowmick, N\'uria Torres-Alb\`a, Alex M. Garcia, Alejandro Saravia, **Jonathan Kho**, Jack T. Warfield, Kaia R. Atzberger
 
 *arXiv e-prints*, 2025
 
@@ -68,7 +58,7 @@ title: "Publications"
 
 ## Signatures of black hole seeding in the local Universe: predictions from the BRAHMA cosmological simulations
 
-{Bhowmick}, Aklant K., {Blecha}, Laura, {Torrey}, Paul, {Somerville}, Rachel S., {Kelley}, Luke Zoltan, {Weinberger}, Rainer, {Vogelsberger}, Mark, {Hernquist}, Lars, {Natarajan}, Priyamvada, {Kho}, Jonathan, {Di Matteo}, Tiziana
+Aklant K. Bhowmick, Laura Blecha, Paul Torrey, Rachel S. Somerville, Luke Zoltan Kelley, Rainer Weinberger, Mark Vogelsberger, Lars Hernquist, Priyamvada Natarajan, **Jonathan Kho**, Tiziana Di Matteo
 
 *\mnras*, 2025
 
