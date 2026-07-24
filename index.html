@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a547dd1b4798262c927e2e52fa668cb1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6ac2aec46ad7f46b16024ee4409aa65c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -124,9 +156,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#hi" id="toc-hi" class="nav-link active" data-scroll-target="#hi">Hi!</a>
+  <li><a href="#research" id="toc-research" class="nav-link active" data-scroll-target="#research">Research</a>
   <ul class="collapse">
-  <li><a href="#research" id="toc-research" class="nav-link" data-scroll-target="#research">Research</a></li>
+  <li><a href="#supermassive-black-holes" id="toc-supermassive-black-holes" class="nav-link" data-scroll-target="#supermassive-black-holes">Supermassive Black Holes</a></li>
+  <li><a href="#uncertainty-quantification-and-dreams-of-fire" id="toc-uncertainty-quantification-and-dreams-of-fire" class="nav-link" data-scroll-target="#uncertainty-quantification-and-dreams-of-fire">Uncertainty Quantification and DREAMs of FIRE</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -153,11 +186,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="hi" class="level1">
-<h1>Hi!</h1>
-<p>I’m a PhD student at the University of Virginia studying supermassive black holes and galaxies in cosmological simulations</p>
+<p>Hi there! I’m an Astronomy Ph.D.&nbsp;student at the University of Virginia studying supermassive black holes and galaxies in cosmological simulations. Take a look at what I’ve been up to lately!</p>
 <section id="research" class="level2">
 <h2 class="anchored" data-anchor-id="research">Research</h2>
+<section id="supermassive-black-holes" class="level3">
+<h3 class="anchored" data-anchor-id="supermassive-black-holes">Supermassive Black Holes</h3>
+<p>So far as we can tell, at the center of every massive galaxy lies a supermassive black hole millions to tens of billions of times as massive as our Sun! These black holes (BHs) can have a huge impact on their environment by launching relativistic jets that punch through their host galaxies and beyond (whereby they are called active galactic nuclei, or AGN), and are observed to have masses that correlate strongly with various properties of their hosts, like stellar mass and stellar velocity dispersion. While we have a well-developed understanding of how stellar-mass BHs can form from the death of a massive star, it is currently unknown how the first “seeds” of these cosmic monsters formed and grew to become supermassive. To make matters even more interesting, NASA’s JWST has observed supermassive BHs to already exist in galaxies within the first billion years of the Universe! These observations have proven extremely difficult for theorists to explain, as we are now asking how a BH can grow so big, so fast.</p>
+<p>In order to help tackle this question, I’ve used the novel <a href="https://www.brahma-project.org/">BRAHMA</a> seed models in cosmological simulations to probe the possibility that enhanced merger-driven BH growth can help explain JWST observations. By implementing highly optimistic seeding models, the BHs in our simulations grew much faster at early times by merging with other BH seeds, enabling rapid BH growth in a regime where accretion-based growth is often less effective in simulations. This resulted in a non-evolving <span class="math inline">\(\rm M_\bullet-\sigma\)</span> relation in the simulation using a leninet/optimistic seeding model, but an evolving relation in the simulations with more restrictive seeding models. Tentative JWST relations indicate that the <span class="math inline">\(\rm M_\bullet-\sigma\)</span> relation may be constant over cosmic time, hinting that heavy BH seeds may form in greater abundances than previously thought possible. To learn more, read my paper <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...994..172K/abstract">“Signatures of Black Hole Seeding on the <span class="math inline">\(\rm M_\bullet\)</span>-<span class="math inline">\(\sigma\)</span> Relation: Predictions from the BRAHMA Simulations”</a>!</p>
+<p>My second paper studying supermassive BHs also used the BRAHMA seed models, but this time also included a novel BH accretion model. When gas falls into a BH, the BH grows in mass and is said to have “accreted” the gas. We model this process using various subgrid models in cosmological simulations, as our resolution is too coarse to model it in detail. The most commonly adopted model, Bondi-Hoyle accretion, has a steep <span class="math inline">\(\rm \dot{M}\propto M_\bullet^2\)</span> scaling with the BH’s mass, and thus lower-mass BH seeds have a greater difficulty growing quickly with this model. To test whether a different accretion model could help produce supermassive BHs at early times, we used a model that has shallower <span class="math inline">\(\rm \dot{M}\propto M_\bullet^{0.5 - 1}\)</span> scalings with the BH mass, while also testing variations in the strength of AGN and stellar feedback in our simulations. We found that while the new accretion model did produce stronger growth than the Bondi-Hoyle model, the difference was marginal in the presence of fiducial AGN and stellar feedback, and once these feedback regimes were reduced for heavy seeds, Bondi-Hoyle accretion always produced stronger BH growth. Thus, the only way we were able to reproduce some JWST observations was via Bondi accretion with reduced feedback, or by producing many BH seeds at early times which rapidly merge with one another. To learn more, read my paper <a href="https://arxiv.org/abs/2606.10036">“Learning the Universe at High Redshifts: Impact of Accretion Modeling on Early Black Hole Growth”</a>!</p>
+</section>
+<section id="uncertainty-quantification-and-dreams-of-fire" class="level3">
+<h3 class="anchored" data-anchor-id="uncertainty-quantification-and-dreams-of-fire">Uncertainty Quantification and DREAMs of FIRE</h3>
 
 
 </section>
