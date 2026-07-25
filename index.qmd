@@ -36,5 +36,7 @@ To learn more, read my paper ["Learning the Universe at High Redshifts: Impact o
 
 ### Uncertainty Quantification and DREAMs of FIRE
 
-
+<video controls width="800">
+  <source src="assets/FIRE_3x4.mp4" type="video/mp4">
+</video>
 
