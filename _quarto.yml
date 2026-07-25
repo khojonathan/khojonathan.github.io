@@ -14,6 +14,8 @@ website:
         text: Publications
       - href: presentations.qmd
         text: Presentations
+      - href: media.qmd
+        text: Media
       - href: assets/Kho_CV.pdf
         text: CV
 
