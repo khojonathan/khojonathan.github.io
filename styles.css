@@ -13,3 +13,17 @@
 .icon-row a {
   text-decoration: none;
 }
+
+.icon-row {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.icon-row a {
+    display: inline-block;
+}
+
+.icon-row img {
+    display: block;
+}
