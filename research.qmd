@@ -14,7 +14,7 @@ Tentative JWST relations indicate that the $\rm M_\bullet-\sigma$ relation may b
 To learn more, read my paper ["Signatures of Black Hole Seeding on the $\rm M_\bullet$-$\sigma$ Relation: Predictions from the BRAHMA Simulations"](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..172K/abstract)!
 
 
-![The $\rm M_\bullet - \sigma$ relation for different BH seeding models (BI - BIV). At $z=5$ (early in the Universe), the different seed models make distinct predictions for the normalization of the $\rm M_\bullet - \sigma$ relation, providing an observable benchmark for signatures of BH seeding.](assets/Brahma_M_Sigma_binned.pdf){width=300px}
+![The $\rm M_\bullet - \sigma$ relation for different BH seeding models (BI - BIV). At $z=5$ (early in the Universe), the different seed models make distinct predictions for the normalization of the $\rm M_\bullet - \sigma$ relation, providing an observable benchmark for signatures of BH seeding.](assets/Brahma_M_Sigma_binned.pdf){width=600px}
 
 
 My second paper studying supermassive BHs also used the BRAHMA seed models, but this time also included a novel BH accretion model.
@@ -26,7 +26,7 @@ We found that while the new accretion model did produce stronger growth than the
 Thus, the only way we were able to reproduce some JWST observations was via Bondi accretion with reduced feedback, or by producing many BH seeds at early times which rapidly merge with one another.
 To learn more, read my paper ["Learning the Universe at High Redshifts: Impact of Accretion Modeling on Early Black Hole Growth"](https://arxiv.org/abs/2606.10036)!
 
-![The dark matter halos we targeted for testing the growth of BHs at high redshift. Even in the most extreme, overdense environment, JWST observations are only semi-reproducible when we use a combination of Bondi accretion and low feedback or lenient BH seeding.](assets/All_halos_smoothed_simple_scale.png){width=300px}
+![The dark matter halos we targeted for testing the growth of BHs at high redshift. Even in the most extreme, overdense environment, JWST observations are only semi-reproducible when we use a combination of Bondi accretion and low feedback or lenient BH seeding.](assets/All_halos_smoothed_simple_scale.png){width=600px}
 
 ### Uncertainty Quantification and DREAMs of FIRE
 
