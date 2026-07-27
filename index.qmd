@@ -1,8 +1,37 @@
 ---
 title: "Jonathan Kho"
 ---
+:::: {.columns}
+
+::: {.column width="70%"}
 
 Hi there! I'm an Astronomy Ph.D. student at the University of Virginia studying supermassive black holes and galaxies in cosmological simulations. 
 When I'm not thinking about Astronomy, I enjoy playing games (board and video!), reading, swing dancing, and cooking and eating yummy (especially Asian) foods.
 Feel free to take a look at what I've been up to lately!
 
+
+<div class="icon-row">
+
+<a href="https://github.com/khojonathan" target="_blank">
+  <img src="assets/icons/GitHub.svg" width="35" alt="GitHub">
+</a>
+
+<a href="https://orcid.org/0000-0002-0275-3001" target="_blank">
+  <img src="assets/icons/ORCID.svg" width="35" alt="ORCID">
+</a>
+
+<a href="https://www.linkedin.com/in/jonathan-kho-5945361b5/" target="_blank">
+  <img src="assets/images/LinkedIn.png" width="35" alt="LinkedIn">
+</a>
+
+</div>
+
+:::
+
+::: {.column width="30%"}
+
+![](assets/headshot.jpg){.headshot fig-alt="Jonathan Kho"}
+
+:::
+
+::::

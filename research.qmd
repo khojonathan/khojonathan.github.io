@@ -14,7 +14,7 @@ Tentative JWST relations indicate that the $\rm M_\bullet-\sigma$ relation may b
 To learn more, read my paper ["Signatures of Black Hole Seeding on the $\rm M_\bullet$-$\sigma$ Relation: Predictions from the BRAHMA Simulations"](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..172K/abstract)!
 
 
-![The $\rm M_\bullet - \sigma$ relation for different BH seeding models (BI - BIV). At $z=5$ (early in the Universe), the different seed models make distinct predictions for the normalization of the $\rm M_\bullet - \sigma$ relation, providing an observable benchmark for signatures of BH seeding.](assets/Brahma_M_Sigma_binned.pdf){width=600px,height=300px}
+![The $\rm M_\bullet - \sigma$ relation for different BH seeding models (BI - BIV). At $z=5$ (early in the Universe), the different seed models make distinct predictions for the normalization of the $\rm M_\bullet - \sigma$ relation, providing an observable benchmark for signatures of BH seeding.](assets/Brahma_M_Sigma_binned.pdf){width=80%}
 
 
 My second paper studying supermassive BHs also used the BRAHMA seed models, but this time also included a novel BH accretion model.
