@@ -13,15 +13,15 @@ Feel free to take a look at what I've been up to lately!
 <div class="icon-row">
 
 <a href="https://github.com/khojonathan" target="_blank">
-  <img src="assets/icons/GitHub.svg" width="35" alt="GitHub">
+  <img src="assets/icons/GitHub.svg" width="50" alt="GitHub">
 </a>
 
 <a href="https://orcid.org/0000-0002-0275-3001" target="_blank">
-  <img src="assets/icons/ORCID.svg" width="35" alt="ORCID">
+  <img src="assets/icons/ORCID.svg" width="50" alt="ORCID">
 </a>
 
 <a href="https://www.linkedin.com/in/jonathan-kho-5945361b5/" target="_blank">
-  <img src="assets/images/LinkedIn.png" width="35" alt="LinkedIn">
+  <img src="assets/icons/LinkedIn.png" width="50" alt="LinkedIn">
 </a>
 
 </div>
