@@ -1,1 +1,15 @@
 /* css styles */
+
+.headshot {
+  width: 220px;
+  border-radius: 50%;
+}
+
+.icon-row img {
+  margin-right: 12px;
+  vertical-align: middle;
+}
+
+.icon-row a {
+  text-decoration: none;
+}
