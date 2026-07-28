@@ -14,8 +14,6 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: presentations.qmd
-        text: Presentations
       - href: media.qmd
         text: Media
       - href: assets/Kho_CV.pdf
