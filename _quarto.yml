@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "assets/Kho_CV.pdf"
 
 execute:
   echo: false
@@ -26,6 +28,4 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
 
